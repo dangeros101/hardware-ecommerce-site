@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Nvidia RTX 2060",
+        "price": 349.99,
+        "image": "images/rtx2060.jpg",
+        "id": 1
+    },
+
+    {
+        "name": "Intel Core i9 9900k",
+        "price": 989.99,
+        "image": "images/intel_i9.jpg",
+        "id": 2
+    },
+
+    {
+        "name": "Gigabyte B450M DS3H",
+        "price": 89.99,
+        "image": "images/gigabyte.jpg",
+        "id": 3
+    },
+
+    {
+        "name": "Hard Drive 3TB",
+        "price": 83.72,
+        "image": "images/hard_drive.jpg",
+        "id": 4
+    },
+
+    {
+        "name": "RAM Memory Modules",
+        "price": 45.99,
+        "image": "images/ram.jpg",
+        "id": 5
+    },
+
+    {
+        "name": "Full Acer PC",
+        "price": 1499.99,
+        "image": "images/fullpc.jpg",
+        "id": 6
+    },
+
+    {
+        "name": "PC Cooler Intel",
+        "price": 49.99,
+        "image": "images/cooler.jpg",
+        "id": 7
+    },
+
+    {
+        "name": "Full Asus PC",
+        "price": 1349.99,
+        "image": "images/fullpc2.jpg",
+        "id": 8
+    }
+]
